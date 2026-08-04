@@ -24,6 +24,12 @@ I am building my cybersecurity knowledge through practical projects and hands-on
 | 10 | NIST Cybersecurity Framework |
 | 11 | OWASP Security Principles |
 | 12 | Security Audit Report |
+| 13 | SIEM Fundamentals |
+| 14 | Log Analysis |
+| 15 | SIEM Dashboards |
+| 16 | Incident Response Playbook |
+| 17 | SIEM Alert Investigations |
+| 18 | SIEM and Splunk |
 
 ## Skills Practiced
 

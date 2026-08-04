@@ -1,0 +1,129 @@
+# NIST Risk Management Framework (RMF)
+
+## Project Overview
+
+This project provides an overview of the NIST Risk Management Framework (RMF).
+
+It explains the purpose of the framework, why organizations use it, its main stages, and the benefits of implementing a structured approach to cybersecurity risk management.
+
+This project was created as part of the Google Cybersecurity Professional Certificate.
+
+---
+
+## What Is the NIST Risk Management Framework (RMF)?
+
+The NIST Risk Management Framework (RMF) is a structured process developed by the National Institute of Standards and Technology (NIST).
+
+It helps organizations identify, assess, manage, and monitor cybersecurity risks.
+
+The framework provides a consistent approach to protecting information systems while supporting compliance with security requirements.
+
+---
+
+## Why Do Organizations Use the NIST RMF?
+
+Organizations use the NIST RMF to:
+
+- Identify cybersecurity risks.
+- Protect sensitive information and critical systems.
+- Improve security decision-making.
+- Reduce the impact of cyber threats.
+- Support compliance with security standards and regulations.
+- Continuously monitor and improve cybersecurity.
+
+Using a structured framework helps organizations manage risks more effectively and maintain a stronger security posture.
+
+---
+
+# Main Steps of the NIST RMF
+
+## 1. Prepare
+
+Organizations identify objectives, define roles and responsibilities, and prepare for risk management activities.
+
+---
+
+## 2. Categorize
+
+Organizations determine the importance of information systems and classify them based on the potential impact of security incidents.
+
+---
+
+## 3. Select
+
+Organizations choose appropriate security controls to protect systems and data based on identified risks.
+
+---
+
+## 4. Implement
+
+Selected security controls are applied and verified to ensure correct implementation.
+
+---
+
+## 5. Assess
+
+Organizations evaluate whether implemented security controls are effective and properly protect systems.
+
+---
+
+## 6. Authorize
+
+Management reviews security assessment results and decides whether the system is authorized to operate.
+
+---
+
+## 7. Monitor
+
+Organizations continuously monitor systems, assess new risks, and update security controls when necessary.
+
+Continuous monitoring helps organizations adapt to evolving cyber threats.
+
+---
+
+## Benefits of the NIST RMF
+
+Implementing the NIST Risk Management Framework helps organizations:
+
+- Improve cybersecurity risk management.
+- Protect sensitive information.
+- Strengthen security controls.
+- Support regulatory compliance.
+- Improve incident response.
+- Maintain continuous security monitoring.
+
+---
+
+## Key Takeaways
+
+The NIST Risk Management Framework provides a structured approach to managing cybersecurity risks throughout the entire lifecycle of an information system.
+
+Continuous monitoring and regular risk assessments help organizations maintain effective security over time.
+
+---
+
+## Lessons Learned
+
+Through this project, I learned:
+
+- The purpose of the NIST Risk Management Framework.
+- The seven main stages of the RMF.
+- How organizations manage cybersecurity risks.
+- Why continuous monitoring is an essential part of cybersecurity.
+
+---
+
+## Skills Practiced
+
+- Risk Management
+- NIST RMF
+- Security Controls
+- Risk Assessment
+- Information Security
+- Cybersecurity Fundamentals
+
+---
+
+## Learning Source
+
+Google Cybersecurity Professional Certificate

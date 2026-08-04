@@ -1,0 +1,143 @@
+# Phishing Email Analysis
+
+## Project Overview
+
+This project documents the analysis of a suspected phishing email.
+
+The objective was to identify phishing indicators, assess potential risks, and provide security recommendations.
+
+This project was created as part of the Google Cybersecurity Professional Certificate learning activities.
+
+## 1. Email Details
+
+**Email Subject:**  
+Urgent: Your Account Will Be Blocked
+
+**Sender Name:**  
+Bank Polska
+
+**Sender Email Address:**  
+security-update@bankpolska-secure.com
+
+**Reported Domain:**  
+bankpolska-secure.com
+
+**Attack Type:**  
+Phishing / Social Engineering
+
+**Potential Objective:**  
+The attacker attempted to impersonate a banking institution to steal user credentials and personal information.
+
+---
+
+## 2. Email Content Analysis
+
+The email claimed that unusual activity had been detected on the user's account.
+
+The message requested immediate identity verification by clicking a provided link.
+
+The attacker used urgency and fear to pressure the user into taking immediate action.
+
+Example:
+
+> "If you do not complete this action within 24 hours, your account will be suspended."
+
+This type of language is commonly used in phishing attacks to create panic and reduce careful decision-making.
+
+---
+
+## 3. Phishing Indicators Identified
+
+### Suspicious Sender
+
+The sender name appeared to represent a legitimate bank, but the email address and domain did not match the official organization.
+
+### Suspicious Domain
+
+The domain looked similar to a legitimate banking website but contained characteristics commonly used in impersonation attacks.
+
+### Urgency and Fear Tactics
+
+The message attempted to force quick action by threatening account suspension.
+
+### Suspicious Link
+
+The email contained a link requesting identity verification through a potentially fraudulent login page.
+
+### Request for Sensitive Information
+
+The attacker attempted to obtain personal information through a fake verification process.
+
+---
+
+## 4. Risk Assessment
+
+**Risk Level: High**
+
+Potential impact:
+
+- User credentials could be stolen.
+- Personal information could be compromised.
+- The account could be taken over.
+- The user could be redirected to a malicious website.
+
+---
+
+## 5. Security Recommendations
+
+Recommended actions:
+
+- Do not click suspicious links in emails.
+- Verify the sender's email address and domain.
+- Access banking services through the official website or application.
+- Report suspicious messages to the security team or email provider.
+- Enable Multi-Factor Authentication (MFA).
+
+---
+
+## 6. Analysis Method
+
+The email was analyzed using:
+
+- Sender verification.
+- Domain inspection.
+- Content analysis.
+- Identification of social engineering techniques.
+- Risk evaluation.
+
+---
+
+## 7. MITRE ATT&CK Mapping
+
+**Technique:**  
+T1566 – Phishing
+
+The attacker used a phishing email to manipulate the user into revealing sensitive information.
+
+---
+
+## 8. Lessons Learned
+
+Through this exercise, I learned how to:
+
+- Identify phishing indicators.
+- Analyze suspicious email content.
+- Evaluate cybersecurity risks.
+- Recognize social engineering techniques.
+- Provide security recommendations.
+
+---
+
+## Tools and Skills Practiced
+
+### Skills
+
+- Phishing analysis
+- Email security
+- Risk assessment
+- Security awareness
+- Incident analysis
+
+### Learning Source
+
+Google Cybersecurity Professional Certificate

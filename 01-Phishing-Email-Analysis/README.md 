@@ -4,9 +4,23 @@
 
 This project documents the analysis of a suspected phishing email.
 
-The objective was to identify phishing indicators, assess potential risks, and provide security recommendations.
+The objective was to identify phishing indicators, analyze attacker techniques, assess potential risks, and provide security recommendations.
 
 This project was created as part of the Google Cybersecurity Professional Certificate learning activities.
+
+---
+
+## Project Objectives
+
+The main objectives of this analysis were:
+
+- Identify phishing indicators in a suspicious email.
+- Analyze sender information and domain characteristics.
+- Identify social engineering techniques.
+- Assess potential security risks.
+- Recommend appropriate security actions.
+
+---
 
 ## 1. Email Details
 
@@ -34,9 +48,9 @@ The attacker attempted to impersonate a banking institution to steal user creden
 
 The email claimed that unusual activity had been detected on the user's account.
 
-The message requested immediate identity verification by clicking a provided link.
+The message requested immediate identity verification through a provided link.
 
-The attacker used urgency and fear to pressure the user into taking immediate action.
+The attacker used urgency and fear tactics to pressure the user into taking immediate action.
 
 Example:
 
@@ -54,77 +68,112 @@ The sender name appeared to represent a legitimate bank, but the email address a
 
 ### Suspicious Domain
 
-The domain looked similar to a legitimate banking website but contained characteristics commonly used in impersonation attacks.
+The domain was designed to look similar to a legitimate banking domain and may indicate an impersonation attempt.
 
 ### Urgency and Fear Tactics
 
-The message attempted to force quick action by threatening account suspension.
+The attacker attempted to create pressure by threatening account suspension.
 
 ### Suspicious Link
 
-The email contained a link requesting identity verification through a potentially fraudulent login page.
+The email contained a link directing users to a potentially fraudulent verification page.
 
 ### Request for Sensitive Information
 
-The attacker attempted to obtain personal information through a fake verification process.
+The attacker attempted to collect personal information through a fake verification process.
 
 ---
 
-## 4. Risk Assessment
+## 4. Investigation Findings
+
+The analysis identified multiple indicators associated with phishing activity:
+
+- Impersonation of a trusted organization.
+- Suspicious sender domain.
+- Social engineering techniques.
+- Attempt to collect user credentials.
+- Creation of urgency to influence user behavior.
+
+**Conclusion:**  
+The email was classified as a high-risk phishing attempt.
+
+---
+
+## 5. Risk Assessment
 
 **Risk Level: High**
 
 Potential impact:
 
-- User credentials could be stolen.
-- Personal information could be compromised.
-- The account could be taken over.
-- The user could be redirected to a malicious website.
+- Theft of user credentials.
+- Unauthorized account access.
+- Exposure of personal information.
+- Financial fraud.
+- Malware infection through malicious links.
 
 ---
 
-## 5. Security Recommendations
+## 6. Recommended Security Actions
 
 Recommended actions:
 
-- Do not click suspicious links in emails.
-- Verify the sender's email address and domain.
-- Access banking services through the official website or application.
-- Report suspicious messages to the security team or email provider.
+- Do not click suspicious links.
+- Verify sender information and email domains.
+- Report phishing messages to the security team.
+- Block malicious domains.
 - Enable Multi-Factor Authentication (MFA).
+- Provide phishing awareness training to users.
 
 ---
 
-## 6. Analysis Method
+## 7. Analysis Method
 
 The email was analyzed using:
 
 - Sender verification.
 - Domain inspection.
-- Content analysis.
-- Identification of social engineering techniques.
-- Risk evaluation.
+- Email content analysis.
+- Social engineering identification.
+- Risk assessment.
 
 ---
 
-## 7. MITRE ATT&CK Mapping
+## 8. MITRE ATT&CK Mapping
 
 **Technique:**  
 T1566 – Phishing
 
-The attacker used a phishing email to manipulate the user into revealing sensitive information.
+**Tactic:**  
+Initial Access
+
+**Description:**  
+The attacker used a phishing email to manipulate the user into providing sensitive information or accessing a malicious resource.
 
 ---
 
-## 8. Lessons Learned
+## 9. Incident Response Actions
+
+If this phishing email was detected in an organization, the security team should:
+
+1. Collect and preserve the email as evidence.
+2. Analyze sender details and malicious indicators.
+3. Block the malicious domain.
+4. Search for similar emails across the organization.
+5. Notify affected users.
+6. Monitor for possible account compromise.
+
+---
+
+## 10. Lessons Learned
 
 Through this exercise, I learned how to:
 
 - Identify phishing indicators.
 - Analyze suspicious email content.
-- Evaluate cybersecurity risks.
 - Recognize social engineering techniques.
-- Provide security recommendations.
+- Evaluate cybersecurity risks.
+- Apply security recommendations.
+- Understand the role of incident response in phishing investigations.
 
 ---
 
@@ -134,10 +183,14 @@ Through this exercise, I learned how to:
 
 - Phishing analysis
 - Email security
+- Threat identification
 - Risk assessment
+- Incident response
 - Security awareness
-- Incident analysis
 
 ### Learning Source
 
 Google Cybersecurity Professional Certificate
+
+ 
+

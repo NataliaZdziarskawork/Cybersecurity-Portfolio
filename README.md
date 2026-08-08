@@ -19,7 +19,7 @@ I am building my cybersecurity knowledge through practical projects and hands-on
 | 05 | [Security Frameworks and Controls](./05-Security-Frameworks-and-Controls/) |
 | 06 | [Ethics in Cybersecurity](./06-Ethics-in-Cybersecurity/) |
 | 07 | [Threats, Risks and Vulnerabilities](./07-Threats-Risks-and-Vulnerabilities/) |
-| 08 | [NIST Risk Management Framework](./08-NIST-Risk-Management-Framework/) |
+| 08 | [NIST Risk Management Framework](./08-NIST-Risk-Management-Framework(RMF)/) |
 | 09 | [CIA Triad](./09-CIA-Triad/) |
 | 10 | [NIST Cybersecurity Framework](./10-NIST-Cybersecurity-Framework(CSF)/) |
 | 11 | [OWASP Security Principles](./11-OWASP-Security-Principles/) |

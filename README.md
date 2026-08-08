@@ -44,9 +44,9 @@ The workbook includes:
 - Skills & Domains
 - Dashboard
 
-File: Excel_Analysis/Tbl_CyberProjects.xlsx
+File: `Excel_Analysis/Tbl_CyberProjects.xlsx`
 
-SQL Analysis
+### SQL Analysis
 
 The SQL analysis contains a MySQL database built from the cybersecurity project dataset.
 
@@ -59,9 +59,10 @@ It includes:
 - JOIN queries
 - Screenshots of query results
 
-Folder: SQL_Analysis/
+Folder: `SQL_Analysis/`
 
-Skills Practiced
+##Skills Practiced
+
 Phishing Analysis
 Threat Identification
 Risk Assessment
@@ -71,7 +72,7 @@ OWASP Principles
 Security Auditing
 Cybersecurity Fundamentals
 
-Learning Source
+##Learning Source
 Google Cybersecurity Professional Certificate
 
 

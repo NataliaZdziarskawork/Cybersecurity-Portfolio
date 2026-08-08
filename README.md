@@ -30,13 +30,15 @@ I am building my cybersecurity knowledge through practical projects and hands-on
 | 16 | Incident Response Playbook |
 | 17 | SIEM Alert Investigations |
 | 18 | SIEM and Splunk |
-Additional Analysis
 
-Excel Analysis
+## Additional Analysis
+
+###Excel Analysis
 
 The Excel analysis extends the 18 cybersecurity projects with structured data analysis and visualization.
 
 The workbook includes:
+
 - CyberProjects_Data
 - Pivot_Tools
 - Skills & Domains

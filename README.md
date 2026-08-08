@@ -13,7 +13,7 @@ I am building my cybersecurity knowledge through practical projects and hands-on
 | # | Project |
 |---|---|
 | 01 | [Phishing Email Analysis](./01-Phishing-Email-Analysis/) |
-| 02 | [Keep Organizations Secure - Cybersecurity Fundamentals](./02-Keep-Organizations-Secure-Cybersecurity/) |
+ | 02 | [Keep Organizations Secure - Cybersecurity Fundamentals](./02-Keep-Organizations-Secure-Cybersecurity-%20Fundamentals/) |
 | 03 | [Methods of Attack](./03-Methods-of-Attack/) |
 | 04 | [CISSP Security Domains](./04-CISSP-Security-Domains/) |
 | 05 | [Security Frameworks and Controls](./05-Security-Frameworks-and-Controls/) |

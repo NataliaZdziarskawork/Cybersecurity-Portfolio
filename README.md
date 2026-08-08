@@ -71,17 +71,6 @@ Cybersecurity Fundamentals
 
 Learning Source
 Google Cybersecurity Professional Certificate
-## Skills Practiced
 
-- Phishing Analysis
-- Threat Identification
-- Risk Assessment
-- Security Controls
-- NIST Frameworks
-- OWASP Principles
-- Security Auditing
-- Cybersecurity Fundamentals
 
-## Learning Source
 
-Google Cybersecurity Professional Certificate

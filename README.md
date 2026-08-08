@@ -11,25 +11,25 @@ I am building my cybersecurity knowledge through practical projects and hands-on
 ## Projects
 
 | # | Project |
-|---|---------|
-| 01 | Phishing Email Analysis |
-| 02 | Keep Organizations Secure - Cybersecurity Fundamentals |
-| 03 | Methods of Attack |
-| 04 | CISSP Security Domains |
-| 05 | Security Frameworks and Controls |
-| 06 | Ethics in Cybersecurity |
-| 07 | Threats, Risks and Vulnerabilities |
-| 08 | NIST Risk Management Framework |
-| 09 | CIA Triad |
-| 10 | NIST Cybersecurity Framework |
-| 11 | OWASP Security Principles |
-| 12 | Security Audit Report |
-| 13 | SIEM Fundamentals |
-| 14 | Log Analysis |
-| 15 | SIEM Dashboards |
-| 16 | Incident Response Playbook |
-| 17 | SIEM Alert Investigations |
-| 18 | SIEM and Splunk |
+|---|---|
+| 01 | [Phishing Email Analysis](./01-Phishing-Email-Analysis/) |
+| 02 | [Keep Organizations Secure - Cybersecurity Fundamentals](./02-Keep-Organizations-Secure-Cybersecurity/) |
+| 03 | [Methods of Attack](./03-Methods-of-Attack/) |
+| 04 | [CISSP Security Domains](./04-CISSP-Security-Domains/) |
+| 05 | [Security Frameworks and Controls](./05-Security-Frameworks-and-Controls/) |
+| 06 | [Ethics in Cybersecurity](./06-Ethics-in-Cybersecurity/) |
+| 07 | [Threats, Risks and Vulnerabilities](./07-Threats-Risks-and-Vulnerabilities/) |
+| 08 | [NIST Risk Management Framework](./08-NIST-Risk-Management-Framework/) |
+| 09 | [CIA Triad](./09-CIA-Triad/) |
+| 10 | [NIST Cybersecurity Framework](./10-NIST-Cybersecurity-Framework(CSF)/) |
+| 11 | [OWASP Security Principles](./11-OWASP-Security-Principles/) |
+| 12 | [Security Audit Report](./12-Security-Audit-Report/) |
+| 13 | [SIEM Fundamentals](./13-SIEM-Fundamentals/) |
+| 14 | [Log Analysis](./14-Log-Analosts/) |
+| 15 | [SIEM Dashboards](./15-SIEM-DASHBOARDS/) |
+| 16 | [Incident Response Playbook](./16-Imcydent-Responze-Playbook/) |
+| 17 | [SIEM Alert Investigations](./17-SIEM-ALERTS-INWESTYGEISHON/) |
+| 18 | [SIEM and Splunk](./18-SIEM-AND-SOLAR/) |
 
 ## Additional Analysis
 

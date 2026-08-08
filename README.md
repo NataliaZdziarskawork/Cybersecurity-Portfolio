@@ -44,7 +44,7 @@ The workbook includes:
 - Skills & Domains
 - Dashboard
 
-File: `Excel_Analysis/Tbl_CyberProjects.xlsx`
+File: Excel_Analysis/Cybersecurity_Profesjonal.xlsx
 
 ### SQL Analysis
 

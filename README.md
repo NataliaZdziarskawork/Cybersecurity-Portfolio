@@ -33,7 +33,7 @@ I am building my cybersecurity knowledge through practical projects and hands-on
 
 ## Additional Analysis
 
-###Excel Analysis
+### Excel Analysis
 
 The Excel analysis extends the 18 cybersecurity projects with structured data analysis and visualization.
 
@@ -61,7 +61,7 @@ It includes:
 
 Folder: `SQL_Analysis/`
 
-##Skills Practiced
+## Skills Practiced
 
 Phishing Analysis
 Threat Identification
@@ -72,7 +72,7 @@ OWASP Principles
 Security Auditing
 Cybersecurity Fundamentals
 
-##Learning Source
+## Learning Source
 Google Cybersecurity Professional Certificate
 
 

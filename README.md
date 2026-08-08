@@ -24,7 +24,7 @@ I am building my cybersecurity knowledge through practical projects and hands-on
 | 10 | [NIST Cybersecurity Framework](./10-NIST-Cybersecurity-Framework(CSF)/) |
 | 11 | [OWASP Security Principles](./11-OWASP-Security-Principles/) |
 | 12 | [Security Audit Report](./12-Security-Audit-Report/) |
-| 13 | [SIEM Fundamentals](./13-SIEM-Fundamentals/) |
+| 13 | [SIEM Fundamentals](./13-Siem-Fundamentals/) |
 | 14 | [Log Analysis](./14-Log-Analosts/) |
 | 15 | [SIEM Dashboards](./15-SIEM-DASHBOARDS/) |
 | 16 | [Incident Response Playbook](./16-Imcydent-Responze-Playbook/) |

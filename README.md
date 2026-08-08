@@ -30,7 +30,47 @@ I am building my cybersecurity knowledge through practical projects and hands-on
 | 16 | Incident Response Playbook |
 | 17 | SIEM Alert Investigations |
 | 18 | SIEM and Splunk |
+Additional Analysis
 
+Excel Analysis
+
+The Excel analysis extends the 18 cybersecurity projects with structured data analysis and visualization.
+
+The workbook includes:
+- CyberProjects_Data
+- Pivot_Tools
+- Skills & Domains
+- Dashboard
+
+File: Excel_Analysis/Tbl_CyberProjects.xlsx
+
+SQL Analysis
+
+The SQL analysis contains a MySQL database built from the cybersecurity project dataset.
+
+It includes:
+- Database schema
+- Project and course data
+- SQL queries for security analysis
+- Risk Level analysis
+- Security Domain analysis
+- JOIN queries
+- Screenshots of query results
+
+Folder: SQL_Analysis/
+
+Skills Practiced
+Phishing Analysis
+Threat Identification
+Risk Assessment
+Security Controls
+NIST Frameworks
+OWASP Principles
+Security Auditing
+Cybersecurity Fundamentals
+
+Learning Source
+Google Cybersecurity Professional Certificate
 ## Skills Practiced
 
 - Phishing Analysis

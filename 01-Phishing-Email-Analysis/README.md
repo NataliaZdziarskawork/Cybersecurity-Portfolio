@@ -42,3 +42,14 @@ The domain contains the word "microsoft", but it is not an official Microsoft do
 
 Impact on verdict:
 Supports the classification as phishing.
+
+### URL
+
+Observation:
+The URL uses HTTPS and contains the domain `microsoft-account-verification.example`.
+
+Why suspicious:
+The domain is not an official Microsoft domain, even though it contains the word "microsoft". The URL leads to a login page, which is consistent with the message's request to verify account credentials.
+
+Impact on verdict:
+Supports the classification as phishing.

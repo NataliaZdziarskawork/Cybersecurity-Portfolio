@@ -17,3 +17,28 @@ The goal of the analysis is to identify phishing indicators, examine suspicious 
 **URL:** https://microsoft-account-verification.example/login
 
 **Attachment:** Account_Verification.zip
+
+
+## 2. Phishing Indicators
+
+### Sender
+
+Observation:
+The sender address ends with `@gmail.com`.
+
+Why suspicious:
+The message claims to be from Microsoft, but the sender address does not use an official Microsoft domain.
+
+Impact on verdict:
+Supports the classification as phishing.
+
+### Domain
+
+Observation:
+The domain is `microsoft-account-verification.example`.
+
+Why suspicious:
+The domain contains the word "microsoft", but it is not an official Microsoft domain.
+
+Impact on verdict:
+Supports the classification as phishing.

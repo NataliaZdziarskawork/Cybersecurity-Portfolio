@@ -1,0 +1,23 @@
+From: Microsoft-veryfet-your-weryfikacja@gmail.com
+Subject: Microsoft — weryfikacja konta
+
+Dzień dobry,
+
+Wykryliśmy nietypową aktywność na Twoim koncie Microsoft.
+
+Musisz natychmiast zweryfikować swoją tożsamość i dane logowania. Jeśli nie wykonasz weryfikacji, Twoje konto zostanie zablokowane.
+
+Kliknij poniższy link, aby zweryfikować konto:
+
+https://microsoft-account-verification.example/login
+
+W załączniku znajduje się również plik wymagany do weryfikacji:
+
+Account_Verification.zip
+
+Pozdrawiamy,
+Microsoft Security Team
+
+
+
+NOTE: This is a fictional phishing email created for cybersecurity training purposes.

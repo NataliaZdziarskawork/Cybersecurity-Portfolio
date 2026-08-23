@@ -1,2 +1,6 @@
 # Network Architecture - Salon Biuty
-## 
+## ## Opis projektu
+
+Zaprojektowałam bezpieczną architekturę sieci dla salonu kosmetycznego Biuty. Projekt został wykonany jako praktyczne ćwiczenie w ramach nauki do Google Cybersecurity Certificate.
+
+Sieć została podzielona na trzy VLAN-y, aby odseparować urządzenia pracowników, urządzenia wrażliwe oraz urządzenia klientów. Celem było ograniczenie komunikacji pomiędzy poszczególnymi segmentami sieci i zmniejszenie ryzyka, że kompromitacja jednego urządzenia umożliwi atakującemu dostęp do pozostałych części infrastruktury.

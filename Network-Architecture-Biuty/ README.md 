@@ -1,0 +1,25 @@
+# Network Architecture — Salon Biuty
+
+## Opis projektu
+
+Projekt przedstawia przykładową bezpieczną architekturę sieci dla salonu kosmetycznego Biuty.
+
+Celem projektu było zaprojektowanie sieci z wykorzystaniem segmentacji VLAN, adresacji IP, kontroli ruchu między sieciami oraz oddzielnych sieci Wi-Fi dla pracowników i klientów.
+
+Projekt został przygotowany jako ćwiczenie z zakresu network security w ramach nauki cyberbezpieczeństwa.
+
+## Cele projektu
+
+- zaprojektowanie logicznej architektury sieci,
+- podział sieci na VLAN-y,
+- odseparowanie sieci klientów od sieci pracowników,
+- wydzielenie sieci dla urządzeń wrażliwych,
+- zaplanowanie adresacji IP,
+- zaplanowanie zakresów DHCP,
+- zastosowanie kontroli ruchu między VLAN-ami,
+- ograniczenie możliwości lateral movement,
+- zaprojektowanie oddzielnych sieci Wi-Fi dla pracowników i klientów.
+
+## Diagram sieci
+
+![Diagram architektury sieci](biuty-network-architecture.png)

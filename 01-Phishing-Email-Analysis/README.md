@@ -76,3 +76,26 @@ Login credentials are sensitive information. A request to provide or verify cred
 
 Impact on verdict:
 Supports the classification as phishing.
+
+
+### Attachment
+
+Observation:
+The email contains an attachment named `Account_Verification.zip`.
+
+Why suspicious:
+The ZIP archive is unexpected in a message requesting account verification. Its contents are unknown and should not be opened on a normal workstation without appropriate security analysis.
+
+Impact on verdict:
+Supports the classification as phishing.
+
+### Language
+
+Observation:
+The message contains language errors.
+
+Why suspicious:
+Language errors can be an additional indicator of a phishing message, although they are not sufficient on their own to confirm phishing.
+
+Impact on verdict:
+Supports the classification as phishing. 

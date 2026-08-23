@@ -53,3 +53,26 @@ The domain is not an official Microsoft domain, even though it contains the word
 
 Impact on verdict:
 Supports the classification as phishing.
+
+
+### Urgency and Social Engineering
+
+Observation:
+The message states that the account will be blocked if the user does not verify their identity.
+
+Why suspicious:
+This creates fear and pressure to act quickly. This is a common social engineering technique used in phishing messages.
+
+Impact on verdict:
+Supports the classification as phishing.
+
+### Credential Request
+
+Observation:
+The message asks the employee to verify their login credentials.
+
+Why suspicious:
+Login credentials are sensitive information. A request to provide or verify credentials through a suspicious message can indicate an attempt to steal account information.
+
+Impact on verdict:
+Supports the classification as phishing.

@@ -1,5 +1,69 @@
-# Network Architecture - Salon Biuty
- ## Opis projektu
-Zaprojektowałam bezpieczną architekturę sieci dla salonu kosmetycznego Biuty. Projekt został wykonany jako praktyczne ćwiczenie w ramach nauki do Google Cybersecurity Certificate.
+# Network Architecture — Salon Biuty
 
-Sieć została podzielona na trzy VLAN-y, aby odseparować urządzenia pracowników, urządzenia wrażliwe oraz urządzenia klientów. Celem było ograniczenie komunikacji pomiędzy poszczególnymi segmentami sieci i zmniejszenie ryzyka, że kompromitacja jednego urządzenia umożliwi atakującemu dostęp do pozostałych części infrastruktury.
+## 1. Opis projektu
+
+Zaprojektowałam bezpieczną architekturę sieci dla salonu kosmetycznego Biuty.
+
+Projekt został wykonany jako praktyczne ćwiczenie w ramach nauki do Google Cybersecurity Certificate, w szczególności w zakresie architektury sieci, segmentacji sieci oraz podstaw network security.
+
+Celem projektu było zaprojektowanie sieci, która oddziela urządzenia pracowników, urządzenia związane z płatnościami oraz urządzenia klientów.
+
+W projekcie zastosowałam trzy VLAN-y, oddzielne sieci Wi-Fi dla pracowników i klientów, adresację IPv4 oraz kontrolę ruchu pomiędzy segmentami za pomocą firewalla.
+
+---
+
+## 2. Cel projektu
+
+Głównym celem projektu było zaprojektowanie logicznie podzielonej i bezpieczniejszej sieci dla salonu kosmetycznego.
+
+Projekt miał na celu:
+
+- oddzielenie sieci pracowników od sieci klientów,
+- wydzielenie urządzeń wrażliwych do osobnego segmentu,
+- ograniczenie niepotrzebnej komunikacji pomiędzy sieciami,
+- zaplanowanie adresacji IPv4,
+- zastosowanie segmentacji VLAN,
+- zastosowanie kontroli ruchu między VLAN-ami,
+- oddzielenie sieci Wi-Fi pracowników od sieci Wi-Fi klientów,
+- ograniczenie możliwości lateral movement w przypadku przejęcia urządzenia.
+
+---
+
+## 3. Kontekst bezpieczeństwa
+
+Salon kosmetyczny może korzystać z komputerów, laptopów, drukarek, terminali płatniczych oraz systemów związanych z obsługą klientów.
+
+W systemach takich mogą być przetwarzane informacje dotyczące klientów, pracowników, wizyt oraz płatności.
+
+Z tego powodu urządzenia nie powinny być traktowane jako jedna wspólna grupa.
+
+W przypadku przejęcia jednego urządzenia przez atakującego ważne jest ograniczenie możliwości przemieszczania się do innych części sieci.
+
+Zastosowana segmentacja ma ograniczyć zakres potencjalnego ataku.
+
+---
+
+# 4. Diagram sieci
+
+Diagram przedstawia zaprojektowaną architekturę sieci salonu Biuty.
+
+![Diagram sieci salonu Biuty](biuty-network-architecture.png)
+
+---
+
+# 5. Architektura sieci
+
+Podstawowa topologia projektu wygląda następująco:
+
+```text
+Internet
+   |
+Router + Firewall
+   |
+Switch
+   |
+   +--- VLAN 10 — Sieć pracowników
+   |
+   +--- VLAN 20 — Sieć wrażliwa
+   |
+   +--- VLAN 30 — Sieć klientów

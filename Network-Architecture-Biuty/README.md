@@ -75,4 +75,4 @@ Firewall może dodatkowo kontrolować, jaki ruch jest dozwolony pomiędzy poszcz
 - Rola routera, switcha, firewalla i access pointa.
 - Znaczenie separacji sieci pracowników, systemów wrażliwych i klientów.
 - Podstawowe zastosowanie segmentacji sieci w cybersecurity.
-
+ 

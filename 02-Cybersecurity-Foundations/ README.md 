@@ -16,3 +16,88 @@ Celem projektu było zrozumienie podstaw cyberbezpieczeństwa.
 - Least privilege
 - Security frameworks and NIST
 - Ethics in cybersecurity
+
+
+## Key Concepts
+
+### CIA Triad
+
+CIA Triad obejmuje Confidentiality, Integrity i Availability.
+
+- Confidentiality — poufność. Dane są dostępne tylko dla uprawnionych osób.
+- Integrity — integralność. Dane nie powinny być nieuprawnienie zmieniane ani naruszane.
+- Availability — dostępność. Uprawnieni użytkownicy mogą korzystać z systemów i danych, kiedy są potrzebne.
+
+
+### Threat, Vulnerability and Risk
+
+- Threat — zagrożenie, które może spowodować szkodę lub wykorzystać podatność.
+- Vulnerability — podatność lub słabość systemu, procesu albo zabezpieczenia.
+- Risk — możliwość, że zagrożenie wykorzysta podatność i spowoduje negatywny skutek.
+
+#### Example
+
+- Vulnerability — niezałatana luka w serwerze.
+- Threat — atakujący próbuje wykorzystać lukę.
+- Risk — możliwość wykorzystania luki i uzyskania nieautoryzowanego dostępu.
+- Impact — wyciek danych klientów.
+
+
+### Security Controls
+
+Security control to zabezpieczenie lub działanie stosowane w celu ograniczenia ryzyka.
+
+Examples:
+
+- Firewall
+- MFA
+- Encryption
+- Access control
+- Security monitoring
+
+
+### Authentication, Authorization and IAM
+
+- Authentication — sprawdzenie tożsamości użytkownika.
+- Authorization — określenie, do czego użytkownik ma dostęp i jakie działania może wykonać.
+- IAM (Identity and Access Management) — zarządzanie tożsamościami użytkowników oraz ich dostępem do systemów i danych.
+
+#### Example
+
+Pracownik loguje się do systemu za pomocą hasła i MFA. System sprawdza jego tożsamość — authentication.
+
+Następnie system sprawdza, czy pracownik ma uprawnienia do otwarcia określonego folderu — authorization.
+
+
+### Least Privilege
+
+Least privilege oznacza przyznawanie użytkownikom tylko takich uprawnień, które są niezbędne do wykonywania ich pracy.
+
+#### Example
+
+Pracownik działu marketingu może mieć dostęp do dokumentów marketingowych, ale nie powinien mieć dostępu do systemów finansowych ani administracyjnych, jeśli nie jest mu to potrzebne.
+
+
+
+### Security Frameworks and NIST
+
+Security framework to uporządkowany zestaw wytycznych, praktyk lub zasad pomagający organizacji zarządzać bezpieczeństwem i ryzykiem.
+
+NIST to National Institute of Standards and Technology. Organizacje mogą korzystać ze standardów, frameworków i wytycznych NIST do organizowania działań związanych z cybersecurity i zarządzaniem ryzykiem.
+
+#### Example
+
+Organizacja korzysta z frameworka NIST do identyfikowania i zarządzania ryzykiem. Następnie wdraża MFA jako security control, aby ograniczyć ryzyko przejęcia kont pracowników.
+
+
+
+### Ethics in Cybersecurity
+
+Security Analyst powinien działać zgodnie z zasadami etycznymi, procedurami organizacji i zakresem swoich uprawnień.
+
+Jeżeli analityk odkryje podatność, ale nie ma autoryzacji do jej wykorzystania, powinien ją udokumentować i zgłosić odpowiedniemu zespołowi zamiast samodzielnie przeprowadzać test.
+
+Sama możliwość technicznego wykonania działania nie oznacza, że analityk ma do niego uprawnienie.
+
+
+
